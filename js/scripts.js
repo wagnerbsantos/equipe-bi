@@ -1,7 +1,12 @@
 const database = {
     "names": [
         "Batista da Injeção",
-        "Bestas Indomaveis"
+        "Bestas Indomaveis",
+        "Bastardos Inglórios",
+        "Burigo Intolerante",
+        "Business Intelligence",
+        "Bêbados Incapazes",
+        "Beans Indestrutíveis"
     ]
 }
 

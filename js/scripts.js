@@ -12,6 +12,8 @@ const database = {
         "Bestas Inconsoláveis",
         "Babacas Idiotas",
         "Blonde Inlove"
+        "Beleza Interior"
+        "Batata Importada"
     ]
 }
 

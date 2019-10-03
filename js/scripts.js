@@ -10,7 +10,8 @@ const database = {
         "Batista Incomodado",
         "Burigo Insensível",
         "Bestas Inconsoláveis",
-        "Babacas Idiotas"
+        "Babacas Idiotas",
+        "Blonde Inlove
     ]
 }
 

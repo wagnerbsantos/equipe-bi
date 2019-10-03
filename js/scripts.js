@@ -6,7 +6,11 @@ const database = {
         "Burigo Intolerante",
         "Business Intelligence",
         "Bêbados Incapazes",
-        "Beans Indestrutíveis"
+        "Beans Indestrutíveis",
+        "Batista Incomodado",
+        "Burigo Insensível",
+        "Bestas Inconsoláveis",
+        "Babacas Idiotas"
     ]
 }
 

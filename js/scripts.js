@@ -1,6 +1,6 @@
 const database = {
     "names": [
-        "Batista na Injeção",
+        "Batista da Injeção",
         "Bestas Indomaveis",
         "Bastardos Inglórios",
         "Burigo Intolerante",
@@ -10,8 +10,9 @@ const database = {
         "Batista Incomodado",
         "Burigo Insensível",
         "Bestas Inconsoláveis",
-        "Babacas Idiotas",
-        "Blonde Inlove
+        "Babacas Idiotas"
+        "Beleza Interior"
+        "Batata Importada"
     ]
 }
 

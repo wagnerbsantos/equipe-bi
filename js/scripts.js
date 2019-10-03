@@ -18,10 +18,10 @@ const sayMyName = () => {
 const rollTheDice = () => {
     sayMyName()
     const r = Math.floor(Math.random() * 2) + 1
-    document.getElementById("dado").src = "images/bi" + r + ".jpg"
-    document.getElementById("dado").classList.remove("dado-animation")
-    document.getElementById("dado").classList.remove("dado-spin")
-    window.setTimeout(() => document.getElementById("dado").classList.add("dado-spin"))
+    document.getElementById("bi").src = "images/bi" + r + ".jpg"
+    document.getElementById("bi").classList.remove("bi-animation")
+    document.getElementById("bi").classList.remove("bi-spin")
+    window.setTimeout(() => document.getElementById("bi").classList.add("bi-spin"))
 }
 
 sayMyName()
